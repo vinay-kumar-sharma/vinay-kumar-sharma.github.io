@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: http://vinay-kumar-sharma.github.io/sitemap.xml
